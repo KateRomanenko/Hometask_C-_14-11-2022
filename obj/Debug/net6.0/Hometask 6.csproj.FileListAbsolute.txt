@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/bin/Debug/net6.0/Hometask 6
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/bin/Debug/net6.0/Hometask 6.deps.json
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/bin/Debug/net6.0/Hometask 6.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/bin/Debug/net6.0/Hometask 6.dll
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/bin/Debug/net6.0/Hometask 6.pdb
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.dll
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/refint/Hometask 6.dll
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.pdb
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/Hometask 6.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/CSharp_new/Hometask 6/obj/Debug/net6.0/ref/Hometask 6.dll
